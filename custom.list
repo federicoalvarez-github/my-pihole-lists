@@ -1,1 +1,22 @@
-
+192.168.4.200 nas1
+192.168.4.200 media.nas1.home
+192.168.4.200 nas1.home
+192.168.4.1 deco.home
+192.168.4.202 acepc.home
+192.168.4.200 qbittorrent.home
+192.168.4.200 portainer.home
+192.168.4.200 pihole.home
+192.168.4.200 omv.home
+192.168.4.200 npm.home
+192.168.4.200 heimdall.home
+192.168.4.200 librespeed.home
+192.168.4.204 mediacenter1.home
+192.168.4.200 nextcloud.home
+192.168.4.200 kuma.home
+192.168.4.204 mediacenter1
+192.168.4.100 fede_hpenvy.home
+192.168.4.101 fede_note10.home
+192.168.4.102 fede_taba7.home
+192.168.4.103 fede_taba7_2.home
+192.168.4.60 belu_note9.home
+192.168.4.200 duplicati.home

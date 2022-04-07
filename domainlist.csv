@@ -1,21 +1,16 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+3,0,nas1.local,1,1645649796,1645649796,
+4,0,browser.pipe.aria.microsoft.com,1,1646242970,1646242970,"Added from Query Log"
+5,2,*microsoft*,1,1646250604,1646250604,
+7,0,self.events.data.microsoft.com,1,1646250946,1646250946,
+8,0,mobile.pipe.aria.microsoft.com,1,1646250969,1646250969,
+9,0,www.msftncsi.com,1,1646251017,1646251017,
+10,2,*geocom*,1,1646251129,1646251129,
+11,0,www.googletagmanager.com,1,1646261784,1646261784,"Added from Query Log"
+12,3,(\.|^)doubleclick\.net$,1,1647026984,1647026984,
+13,3,(\.|^)smartadserver$,1,1647027099,1647027099,
+14,1,adservice.google.com,1,1647027141,1647027141,
+15,3,(\.|^)2mdn\.net$,1,1647027350,1647027350,
+16,1,tpc.googlesyndication.com,1,1647028041,1647028082,
+17,1,apuestasfree.com,1,1647474726,1647474726,
+18,0,click.redditmail.com,1,1648124697,1648124697,"Added from Query Log"
