@@ -26,3 +26,5 @@
 192.168.4.62 belu_acer
 192.168.4.230 cctv.home
 192.168.4.104 fede_t14.home
+192.168.4.200 emby.home
+192.168.4.200 homeassistant.home
