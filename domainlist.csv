@@ -32,3 +32,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 41,1,usertag.online,1,1676338175,1676338175,"Added from Query Log"
 44,1,regath.com,1,1676338311,1676338311,"Added from Query Log"
 45,1,googlesyndication.com,1,1678726506,1678726506,
+46,3,(\.|^)apuestasfree\.com$,1,1679056211,1679056211,apuestasfree.com
