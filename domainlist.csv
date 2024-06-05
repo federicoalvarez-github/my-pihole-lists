@@ -33,3 +33,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 44,1,regath.com,1,1676338311,1676338311,"Added from Query Log"
 45,1,googlesyndication.com,1,1678726506,1678726506,
 46,3,(\.|^)apuestasfree\.com$,1,1679056211,1679056211,apuestasfree.com
+47,0,link-center.net,1,1717501933,1717501933,test
+48,0,linkvertise.com,1,1717501961,1717501961,test
