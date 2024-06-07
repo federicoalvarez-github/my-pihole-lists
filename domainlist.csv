@@ -35,3 +35,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 46,3,(\.|^)apuestasfree\.com$,1,1679056211,1679056211,apuestasfree.com
 47,0,link-center.net,1,1717501933,1717501933,test
 48,0,linkvertise.com,1,1717501961,1717501961,test
+49,0,globant.com,1,1717675450,1717675450,globant
+50,0,more.globant.com,1,1717675459,1717675459,globant
